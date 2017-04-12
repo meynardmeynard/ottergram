@@ -127,7 +127,7 @@ a {
   }
 
   .detail-image-container {
-      justify-content: flex-start;
+      justify-content: center;
       align-items: flex-start;
   }
 }
